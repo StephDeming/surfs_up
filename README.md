@@ -11,7 +11,7 @@ In order to secure funding for a business proposal (an ice-cream and surf shop o
 ![Surf's Up  June](https://user-images.githubusercontent.com/90067477/141698665-d9794507-dd46-4e06-989a-5caa542500bc.jpeg)
 ![Surf's Up December](https://user-images.githubusercontent.com/90067477/141698667-32ce2f6f-2f95-40f2-a17f-7ddcef9fb264.jpeg)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 Other than the low of 59 in December the temperature seems to remain high for both months. And great for eating ice cream. 
 
 There isn't enough data to ascertain whether or not this business model would be sustainable with these two queries alone. Without water/wave conditions, the location on the island where the shop would be located(the weather patterns on the windward and leeward sides of the island are different) and precipitation levels the analysis seems shallow.  
